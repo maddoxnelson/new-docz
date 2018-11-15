@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "docz": "^0.12.5"
+    "docz": "^0.12.11"
   }
 }
